@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Deep Learning"
+    url: /dl/
+  - title: "Statistics"
+    url: /st/
+  - title: "Reinforcement Learning"
+    url: /rl/
+  - title: "Data Engineering"
+    url: /de/
+  - title: "Projects"
+    url: /projects/
