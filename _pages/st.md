@@ -28,6 +28,8 @@ A series of articles dedicated to Statistics
 
 * [Markov Models ](https://mohameddhaoui.github.io/statistics/hmm/) : Introduction to Hidden Mmarkov Models
 
+* [Prueba_Markov](https://issamfakhari.github.io/statistics/CadenasMarkov/) : Prueba
+
 
 ## Hypothesis Testing
 
