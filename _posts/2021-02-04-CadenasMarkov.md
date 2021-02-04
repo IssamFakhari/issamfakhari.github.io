@@ -5,9 +5,9 @@ date: 2019-02-15
 layout: single
 author_profile: false
 read_time: true
-tags: [Statistics , HMM] 
+tags: [Statistics , CadenasMarkov] 
 categories: [statistics]
-excerpt: " statistics, HMM"
+excerpt: " statistics, CadenasMarkov"
 comments : true
 toc: true
 toc_sticky: true
