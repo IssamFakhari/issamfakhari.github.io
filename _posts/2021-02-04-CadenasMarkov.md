@@ -15,18 +15,7 @@ toc_sticky: true
 ---
 
 
-# Contenido
--   [Cadenas de Markov](#cadenas-de-markov)
--   [Modelado sistemas dinámicos en tiempo
-    discreto](#modelado-sistemas-dinámicos-en-tiempo-discreto)
-    -   [El ascensor social](#el-ascensor-social)
-        -   [Matriz de transición de la cadena de Markov
-            discreta](#matriz-de-transición-de-la-cadena-de-markov-discreta)
-        -   [Definición cadena de Markov](#definición-cadena-de-markov)
-            -   [Diagrama de la cadena](#diagrama-de-la-cadena)
-            -   [Distribución estacionaria](#distribución-estacionaria)
-        -   [Probabilidad sobre
-            generaciones](#probabilidad-sobre-generaciones)
+
 
 
 
