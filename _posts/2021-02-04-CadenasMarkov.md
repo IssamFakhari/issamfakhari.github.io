@@ -291,7 +291,7 @@ library(diagram)
 plot(mcP, package="diagram", cex= .6)
 ```
 
-![](./images/diagramaMarkov.png)
+![](https://github.com/IssamFakhari/issamfakhari.github.io/blob/main/images/diagramaMarkov.png?raw=true)
 
 
 
