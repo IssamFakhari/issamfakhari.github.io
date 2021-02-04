@@ -1,7 +1,7 @@
 
 ---
 published: true
-title: Introduction to Hidden Mmarkov Models
+title: Modelado con Cadenas de Markov
 date: 2021-02-04
 layout: single
 author_profile: false
@@ -15,9 +15,6 @@ toc_sticky: true
 ---
 
 
-Modelado con Cadenas de Markov
-================
-Issam Fakhari
 
 -   [Cadenas de Markov](#cadenas-de-markov)
 -   [Modelado sistemas dinámicos en tiempo
