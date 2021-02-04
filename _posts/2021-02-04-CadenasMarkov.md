@@ -1,6 +1,6 @@
 ---
 published: true
-title: Introduction to Hidden Mmarkov Models
+title: Modelado con Cadenas de Markov
 date: 2019-02-15
 layout: single
 author_profile: false
