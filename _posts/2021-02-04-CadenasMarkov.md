@@ -15,7 +15,7 @@ toc_sticky: true
 ---
 
 
-
+# Contenido
 -   [Cadenas de Markov](#cadenas-de-markov)
 -   [Modelado sistemas dinámicos en tiempo
     discreto](#modelado-sistemas-dinámicos-en-tiempo-discreto)
@@ -28,11 +28,11 @@ toc_sticky: true
         -   [Probabilidad sobre
             generaciones](#probabilidad-sobre-generaciones)
 
-------------------------------------------------------------------------
+
 
 # Cadenas de Markov
 
-------------------------------------------------------------------------
+
 
 Cuando hablamos de un proceso estocástico en el sentido más general,
 tenemos una familia de variables aleastorias (*X*<sub>*j*</sub>), donde
@@ -62,17 +62,17 @@ actual *X*<sub>*n*</sub>
 Para n=1,2.. y para cualquier sucesión de estados
 *s*<sub>1</sub>, ..., *s*<sub>*n* + 1</sub>  
 
-------------------------------------------------------------------------
+
 
 # Modelado sistemas dinámicos en tiempo discreto
 
-------------------------------------------------------------------------
 
-------------------------------------------------------------------------
+
+
 
 ## El ascensor social
 
-------------------------------------------------------------------------
+
 
 Para muchos, el nivel de movilidad intergeneracional de la sociedad -
 denominado ascensor social- es visto como una medida de hasta qué punto
@@ -89,11 +89,11 @@ ingresos los niños de las familias con más o menos recursos cuando son
 adultos. Esto se puede mostrar con una matriz de transición que muestra
 los moviminetos de la distribución de la renta entre generaciones.
 
-------------------------------------------------------------------------
+
 
 ### Matriz de transición de la cadena de Markov discreta
 
-------------------------------------------------------------------------
+
 
 El siguiente cuadro contiene la matriz de transición del ascensor social
 de los hijos nacidos en 1970. Las filas representan los cuartiles de los
@@ -235,11 +235,11 @@ P
     ## Q2 0.22 0.26 0.28 0.24
     ## Q1 0.11 0.22 0.24 0.43
 
-------------------------------------------------------------------------
+
 
 ### Definición cadena de Markov
 
-------------------------------------------------------------------------
+
 
 Creamos la cadena de Markov discreta definida por la matriz de
 transiciones P. Nuestra cadena de Markov presenta las probabilidades de
@@ -283,11 +283,11 @@ summary(mcP)
     ## The Markov chain is irreducible 
     ## The absorbing states are: NONE
 
-------------------------------------------------------------------------
+
 
 #### Diagrama de la cadena
 
-------------------------------------------------------------------------
+
 
 Cada estado se representa por un círculo, y las transiciones entre
 estados con flechas acompañadas por la correspondiente probabilidad de
@@ -305,11 +305,11 @@ plot(mcP, package="diagram", cex= .6)
 
 ![](CadenasMarkov_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
-------------------------------------------------------------------------
+
 
 #### Distribución estacionaria
 
-------------------------------------------------------------------------
+
 
 Un vector estacionario es un vector de probabilidad y es el vector
 propio de la matriz de transición P asociado al valor propio *λ* = 1
@@ -341,11 +341,11 @@ SS
 
     ## [1] 0.2502453 0.2525585 0.2474415 0.2497547
 
-------------------------------------------------------------------------
+
 
 ### Probabilidad sobre generaciones
 
-------------------------------------------------------------------------
+
 
 A partir de las cadenas de Markov definidas para el caso, se procederá a
 responder a planteamientos sobre las probabilidades según generaciones.
