@@ -291,7 +291,7 @@ library(diagram)
 plot(mcP, package="diagram", cex= .6)
 ```
 
-![](CadenasMarkov_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](issamfakhari.github.io/images/diagramaMarkov.png)<!-- -->
 
 
 
