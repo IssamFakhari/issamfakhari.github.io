@@ -1,14 +1,13 @@
-
 ---
 published: true
-title: Modelado con Cadenas de Markov
-date: 2021-02-04
+title: Introduction to Hidden Mmarkov Models
+date: 2019-02-15
 layout: single
 author_profile: false
 read_time: true
-tags: [Statistics , CadenasMarkov] 
+tags: [Statistics , HMM] 
 categories: [statistics]
-excerpt: " statistics, CadenasMarkov"
+excerpt: " statistics, HMM"
 comments : true
 toc: true
 toc_sticky: true
