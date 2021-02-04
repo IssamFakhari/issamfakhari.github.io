@@ -6,7 +6,7 @@ date: 2021-02-04
 layout: single
 author_profile: false
 read_time: true
-tags: [Statistics , HMM] 
+tags: [Statistics , CadenasMarkov] 
 categories: [statistics]
 excerpt: " statistics, CadenasMarkov"
 comments : true
