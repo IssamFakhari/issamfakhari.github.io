@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Deep Learning"
+  - title: "Machine Learning"
     url: /dl/
   - title: "Statistics"
     url: /st/
