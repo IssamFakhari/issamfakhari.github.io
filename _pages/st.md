@@ -2,7 +2,7 @@
 layout: single
 permalink: /st/
 author_profile: true
-excerpt: " Statistics"
+excerpt: " Estadistica"
 comments : true
 toc: true
 toc_sticky: true
