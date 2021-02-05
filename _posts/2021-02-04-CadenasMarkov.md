@@ -402,11 +402,9 @@ distribución estacionaria contiene la probabilidad de que un hijo esté a
 los 30 años en cualquiera de los cuartiles (por consiguiente, en
 cualquiera de los estados):
 
-\begin{aligned}
 
 distribución \space estacionaria = \lim_{n \to \infty} P_{ij}^n
 
-\end{aligned}
 
 Como en el apartado previo, podemos observar el comportamiento de matriz
 P en n pasos.
