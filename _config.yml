@@ -160,21 +160,21 @@ footer:
 include:
   - .htaccess
   - _pages
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Gemfile
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
   - .asset-cache
   - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
   - Capfile
   - CHANGELOG
   - config
-  - Gemfile
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
