@@ -160,16 +160,16 @@ footer:
 include:
   - .htaccess
   - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
   - Gemfile
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - vendor
   - .asset-cache
   - .bundle
   - Capfile
