@@ -30,6 +30,8 @@ A series of articles dedicated to Statistics
 
 * [Prueba_Markov](https://issamfakhari.github.io/statistics/CadenasMarkov/) : Prueba
 
+* [Prueba1](https://issamfakhari.github.io/statistics/Prueba1/) : Prueba1
+
 
 ## Hypothesis Testing
 
