@@ -26,7 +26,7 @@ A series of articles dedicated to Statistics
 
 ## Modelos Markov
 
-* [Modelo Markov](https://issamfakhari.github.io/statistics/CadenasMarkov/) : Modelado de Cadenas de Markov en el ascensor social
+* [Modelo Markov](https://issamfakhari.github.io/statistics/CadenasMarkov/) : Modelado del ascensor social con Cadenas de Markov
 
 
 
