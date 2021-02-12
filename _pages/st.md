@@ -31,6 +31,6 @@ A series of articles dedicated to Statistics
 
 
 
-## Hypothesis Testing
+## Modelos multivariantes
 
-* [Hypothesis Testing ](https://mohameddhaoui.github.io/statistics/hypothesis_testing/) : Hypothesis testing in Machine learning using Python
+* [Análisis factorial epxloratorio ](https://issamfakhari.github.io/statistics/analisisFactorialExploratorio/) : Factores subyacentes a la imagen que los hombres tienen de sí mismos
