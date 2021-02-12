@@ -24,13 +24,11 @@ A series of articles dedicated to Statistics
 * [Graph Analysis](https://mohameddhaoui.github.io/statistics/graph/) : Graph Analysis with Networkx
 
 
-## Markov Models
+## Modelos Markov
 
-* [Markov Models ](https://mohameddhaoui.github.io/statistics/hmm/) : Introduction to Hidden Mmarkov Models
+* [Modelo Markov](https://mohameddhaoui.github.io/statistics/CadenasMarkov/) : Modelado de Cadenas de Markov en el ascensor social
 
-* [Prueba_Markov](https://issamfakhari.github.io/statistics/CadenasMarkov/) : Prueba
 
-* [Prueba1](https://issamfakhari.github.io/statistics/Prueba1/) : Prueba1 
 
 
 ## Hypothesis Testing
