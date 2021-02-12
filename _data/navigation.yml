@@ -6,8 +6,8 @@ main:
     url: /dl/
   - title: "Statistics"
     url: /st/
-  - title: "Reinforcement Learning"
-    url: /rl/
+  - title: "Data Analysis"
+    url: /da/
   - title: "Data Engineering"
     url: /de/
   - title: "Projects"
