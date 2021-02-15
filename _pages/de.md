@@ -12,7 +12,7 @@ A series of articles dedicated to data engineering
 
 
 ## Web Application
-* [ARIMA](https://issamfakhari.github.io/machinelearning/ARIMA/) : 
+
 * [D3js](https://mohameddhaoui.github.io/dataengineering/d3js/) : Introduction to D3js
 * [Flask](https://mohameddhaoui.github.io/statistics/graph/) : Creating Web application with Flask
 
