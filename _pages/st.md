@@ -35,3 +35,5 @@ A series of articles dedicated to Statistics
 
 * [Análisis factorial epxloratorio ](https://issamfakhari.github.io/statistics/analisisFactorialExploratorio/) : Factores subyacentes a la imagen que los hombres tienen de sí mismos
 * [Idealista](https://issamfakhari.github.io/statistics/Idealista/)
+* [Idealista2](https://issamfakhari.github.io/statistics/IdealistaOriginal/)
+
