@@ -14,7 +14,7 @@ header:
 A series of articles dedicated to Statistics
 
 ## Bayesian Analysis
-
+* [ARIMA](https://issamfakhari.github.io/statistics/ARIMA/) : 
 * [Bayesian Regression](https://mohameddhaoui.github.io/statistics/bayesianregression/) :  Bayesian Linear Regression
 
 
