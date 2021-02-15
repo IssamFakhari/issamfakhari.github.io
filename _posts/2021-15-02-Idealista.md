@@ -1,3 +1,19 @@
+---
+published: true
+title: Idealista
+date: 2021-02-15
+layout: single
+author_profile: false
+read_time: true
+tags: [Reinforcement Learning, Multi-bandits] 
+categories: [reinforcementlearning]
+excerpt: "Reinforcement Learning , Multi-bandits "
+comments : true
+toc: true
+toc_sticky: true
+---
+
+
 Decidir dónde, cuándo y cómo invertir no esta una tarea básica. Existen diversas variables que han de investigarse y tomar en consideración, sobretodo cuando se trata de una decisión que abarca una cantidad de capital significativa.Por ello, cuanta más información de calidad (importante!) se recopile sobre la inversión, más preciso es el resultado.
 
 Nuestra finalidad es construir diferentes modelos de regresión sobre los precios de las propiedades del portal Idealista, integrando el registro de viviendas turísticas y estancias turísticas en viviendas de la isla de Mallorca como fuente externa.
