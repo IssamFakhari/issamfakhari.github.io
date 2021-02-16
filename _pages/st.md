@@ -1,8 +1,6 @@
 ---
 layout: single
 permalink: /st/
-author_profile: true
-excerpt: " Estadistica"
 comments : true
 toc: true
 toc_sticky: true
@@ -11,17 +9,11 @@ header:
 
 ---
 
-A series of articles dedicated to Statistics
+Serie de artículos sobre Analítica Avanzada y Estadística
 
 ## Bayesian Analysis
 * [ARIMA](https://issamfakhari.github.io/statistics/ARIMA/) : 
-* [Bayesian Regression](https://mohameddhaoui.github.io/statistics/bayesianregression/) :  Bayesian Linear Regression
 
-
-
-## Graph Analysis
-
-* [Graph Analysis](https://mohameddhaoui.github.io/statistics/graph/) : Graph Analysis with Networkx
 
 
 ## Modelos Markov
@@ -34,7 +26,5 @@ A series of articles dedicated to Statistics
 ## Modelos multivariantes
 
 * [Análisis factorial epxloratorio ](https://issamfakhari.github.io/statistics/analisisFactorialExploratorio/) : Factores subyacentes a la imagen que los hombres tienen de sí mismos
-* [Idealista](https://issamfakhari.github.io/statistics/Idealista/)
-* [Idealista2](https://issamfakhari.github.io/statistics/IdealistaOriginal/)
-* [Idealista3](https://issamfakhari.github.io/statistics/articulo/)  
+
 
