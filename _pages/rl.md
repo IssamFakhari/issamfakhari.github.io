@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /rl/
+permalink: /de/
 author_profile: true
 header :
     image: "ml_head.png"
@@ -8,12 +8,12 @@ toc: true
 toc_sticky: true
 ---
 
-A series of articles dedicated to Reinforcement Learning.
+Serie de artículos relaciondos a la ingeniería de datos
 
 ## Introduction 
 
-* [Reinforcement-Q-Learning ](https://mohameddhaoui.github.io/reinforcementlearning/qlearning/) : Q-Learning
-* [Multi Armed Bandits ](https://mohameddhaoui.github.io/reinforcementlearning/cbandits/) : Introduction to contextual bandits
+* 
+* 
 
 
 
