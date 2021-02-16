@@ -5,7 +5,7 @@ layout : archive
 author_profile: true
 classes: wide
 header :
-    image: "https://qtxasset.com/styles/breakpoint_xl_880px_w/s3/fierceelectronics/1604414450/GettyImages-1196084872.jpg/GettyImages-1196084872.jpg?qSRvpSMyUcXkc5WNrtjCPoL9BBtXUI8x&itok=P4k7T-Ux"
+    image: "https://www.bbvaopenmind.com/wp-content/uploads/2018/02/BBVA-OpenMind-Futuro-5-Kevin-Warwik-El-futuro-de-la-inteligencia-artificial-y-la-cibern%C3%A9tica.jpg"
     
 ---
 <div style="text-align: justify">
