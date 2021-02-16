@@ -4,8 +4,7 @@ permalink: /about/
 layout : archive
 author_profile: true
 classes: wide
-header :
-    image: ![]("https://github.com/IssamFakhari/issamfakhari.github.io/blob/main/images/about_scape.jpg")
+
     
 ---
 <div style="text-align: justify">
