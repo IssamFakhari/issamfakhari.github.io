@@ -1,4 +1,5 @@
 ---
+title : "Data Engineering" 
 layout: single
 permalink: /de/
 author_profile: true
@@ -8,12 +9,9 @@ toc: true
 toc_sticky: true
 ---
 
-Serie de artículos relaciondos a la ingeniería de datos
+Serie de artículos relaciondos a la Ingeniería de Datos
 
-## Introduction 
 
-* 
-* 
 
 
 
