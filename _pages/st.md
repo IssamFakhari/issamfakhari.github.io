@@ -1,4 +1,5 @@
 ---
+title : "Statistics" 
 layout: single
 permalink: /st/
 comments : true
@@ -9,8 +10,6 @@ header:
 
 ---
  
- # Estadistica
-
 Serie de artículos sobre Analítica Avanzada y Estadística
 
 ## Modelos multivariantes
