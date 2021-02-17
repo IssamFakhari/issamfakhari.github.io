@@ -4,7 +4,7 @@ layout: single
 permalink: /st/
 author_profile: true
 header: 
-    image: "/images/stat.jpg"
+    image: "/images/de_head.jpg"
 toc: true
 toc_sticky: true
 ---
