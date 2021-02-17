@@ -2,12 +2,11 @@
 title : "Statistics" 
 layout: single
 permalink: /st/
-comments : true
-toc: true
-toc_sticky: true
+author_profile: true
 header: 
  overlay_image: "/images/stat.jpg"
-
+toc: true
+toc_sticky: true
 ---
  
 Serie de artículos sobre Analítica Avanzada y Estadística
