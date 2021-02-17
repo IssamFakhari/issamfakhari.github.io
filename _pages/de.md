@@ -4,7 +4,7 @@ layout: single
 permalink: /da/
 author_profile: true
 header :
-    image: "ml_head.png"
+    image: "/images/da_head.jpg"
 toc: true
 toc_sticky: true
 ---
