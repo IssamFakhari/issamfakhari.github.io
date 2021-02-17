@@ -9,7 +9,7 @@ header:
 
 ---
  
- #Estadistica
+ # Estadistica
 
 Serie de artículos sobre Analítica Avanzada y Estadística
 
