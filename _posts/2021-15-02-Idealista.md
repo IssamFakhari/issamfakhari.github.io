@@ -7,7 +7,6 @@ author_profile: false
 read_time: true
 tags: [Reinforcement Learning, Multi-bandits] 
 categories: [statistics]
-excerpt: "Reinforcement Learning , Multi-bandits "
 comments : true
 toc: true
 toc_sticky: true
