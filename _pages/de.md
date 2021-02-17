@@ -1,4 +1,5 @@
 ---
+title : "Data Analysis" 
 layout: single
 permalink: /da/
 author_profile: true
@@ -13,13 +14,9 @@ Serie de artículos relacionados al análisis de datos
 
 
 
-## Data Visualization
+## Time Series
 
 * 
-* 
+ 
 
-
-## Data platforms and monitoring tools
-
-* [Mlflow]
 
