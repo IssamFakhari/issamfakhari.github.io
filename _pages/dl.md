@@ -1,4 +1,5 @@
 ---
+title : "Machine Learning" 
 layout: single
 permalink: /ml/
 author_profile: true
@@ -10,15 +11,13 @@ toc_sticky: true
 
 Serie de artículos sobre Machine Learning
 
-## Recurrent Neural Networks 
+## Supervised Learning 
 
 * 
 
 
-## Convolutional Neural Networks
+## Unsupervised Learning
 * 
-* 
-* 
-* 
+
 
 
