@@ -51,4 +51,4 @@ In Sept
 <br/>
 
 
-## [ Recent Projects](https://mohameddhaoui.github.io/projects/)
+## [ Recent Projects]()
