@@ -4,7 +4,7 @@ layout: single
 permalink: /ml/
 author_profile: true
 header :
-    image: "ml_head.jpg"
+    image: "/images/ml_head.jpg"
 toc: true
 toc_sticky: true
 ---
