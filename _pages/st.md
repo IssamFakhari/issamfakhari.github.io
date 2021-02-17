@@ -8,6 +8,7 @@ header:
  overlay_image: "/images/stat.jpg"
 
 ---
+ Estadistica
 
 Serie de artículos sobre Analítica Avanzada y Estadística
 
