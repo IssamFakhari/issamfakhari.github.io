@@ -1,11 +1,11 @@
 ---
 published: true
-title: Idealista
+title: Predicción precios propiedades datos portal Idealista + integración OpenData (Parte1-Preparación datos)
 date: 2021-02-15
 layout: single
 author_profile: false
 read_time: true
-tags: [Reinforcement Learning, Multi-bandits] 
+tags: [Machine Learning, Regression] 
 categories: [statistics]
 excerpt: " "
 comments : true
