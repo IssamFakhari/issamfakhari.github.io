@@ -11,6 +11,8 @@ excerpt: "Reinforcement Learning , Multi-bandits "
 comments : true
 toc: true
 toc_sticky: true
+header:
+   overlay_image: "/images/idealista_datos_gob.png"
 ---
 
 
