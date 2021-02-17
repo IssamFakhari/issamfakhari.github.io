@@ -10,5 +10,5 @@ main:
     url: /da/
   - title: "Data Engineering"
     url: /de/
-  - title: "Projects"
-    url: /projects/
+ # - title: "Projects"
+  #  url: /projects/
