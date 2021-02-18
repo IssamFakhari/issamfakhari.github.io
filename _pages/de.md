@@ -16,7 +16,7 @@ Serie de artículos relacionados al análisis de datos
 
 ## Time Series
 
-* [Modelo ARIMA](https://issamfakhari.github.io/dataanalysis/arima/) : Venta licores.Predicción modelo ARIMA 
+* [Modelo ARIMA](https://issamfakhari.github.io/dataanalysis/ARIMA/) : Venta licores.Predicción modelo ARIMA 
 
 
  
