@@ -95,15 +95,23 @@ Realizamos el recuento para cada propiedad de las viviendas turísticas a menos 
 Existen métodos más precisos para calcular la distancia entre dos puntos, aunque por resultados ótptimos e implementanción sencilla se usa la fórmula Haversine.
 La simplicidad de la fórmula proviene en la asunción de que la Tierra es una esfera perfecta (lo cual no es así). Por ello, se puede incurrir en errores que mediante implementaciones más complejas se reducerían.
 
-$$a = sin^2 ( \frac{\Delta \phi}{2})  + cos(\phi_{1}) * cos(\phi_{2}) * sin^2(\frac{\Delta \lambda}{2}) $$
+\begin{math}
+a = sin^2 ( \frac{\Delta \phi}{2})  + cos(\phi_{1}) * cos(\phi_{2}) * sin^2(\frac{\Delta \lambda}{2})
+\end{math}
 
-con: $$c=2*arctan2 (\sqrt{a}, \sqrt{1-a})$$
+con:
+\begin{math}
+c=2*arctan2 (\sqrt{a}, \sqrt{1-a})
+\end{math}
 
-y: $$d = R*c$$
+y: 
+\begin{math}
+d = R*c
+\end{math}
 
 donde: 
- - $$\phi$$ = latitud
- - $$\lambda$$ = longitud
+ - \begin{math}\phi\end{math} = latitud
+ - \begin{math}\lambda\emd{math} = longitud
  - R = 6371 (Radio efectivo de la Tierra en km)
 
 ### Exploración distribución de variables numércias
