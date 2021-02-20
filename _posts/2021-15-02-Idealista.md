@@ -98,7 +98,7 @@ La simplicidad de la fórmula proviene en la asunción de que la Tierra es una e
 ![equation](https://latex.codecogs.com/svg.latex?a%20=%20sin^2%20(%20\frac{\Delta%20\phi}{2})%20%20+%20cos(\phi_{1})%20*%20cos(\phi_{2})%20*%20sin^2(\frac{\Delta%20\lambda}{2}))
 
 $$a = sin^2 ( \frac{\Delta \phi}{2})  + cos(\phi_{1}) * cos(\phi_{2}) * sin^2(\frac{\Delta \lambda}{2})$$
-{% endraw %}
+
 
 con:
 \[c=2*arctan2 (\sqrt{a}, \sqrt{1-a})\]
