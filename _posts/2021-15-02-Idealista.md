@@ -97,19 +97,13 @@ La simplicidad de la fórmula proviene en la asunción de que la Tierra es una e
 
 ![equation](https://latex.codecogs.com/svg.latex?a%20=%20sin^2%20(%20\frac{\Delta%20\phi}{2})%20%20+%20cos(\phi_{1})%20*%20cos(\phi_{2})%20*%20sin^2(\frac{\Delta%20\lambda}{2}))
 
-$$a = sin^2 ( \frac{\Delta \phi}{2})  + cos(\phi_{1}) * cos(\phi_{2}) * sin^2(\frac{\Delta \lambda}{2})$$
-
 
 con:
-\[c=2*arctan2 (\sqrt{a}, \sqrt{1-a})\]
+![equation](https://latex.codecogs.com/svg.latex?c=2*arctan2%20(\sqrt{a},%20\sqrt{1-a}))
 
-y: 
-\[d = R*c\]
+![equation](https://latex.codecogs.com/svg.latex?y:%20d%20=%20R*c)
 
-donde: 
- - \[\phi\] = latitud
- - \[\lambda\] = longitud
- - R = 6371 (Radio efectivo de la Tierra en km)
+![equation](https://latex.codecogs.com/svg.latex?donde:%20%20%20\phi=%20latitud;%20%20\lambda%20=%20longitud%20;%20R%20=%206371%20(Radio%20\quad%20efectivo%20\quad%20de%20\quad%20la%20\quad%20Tierra%20\quad%20en%20\quad%20km))
 
 ### Exploración distribución de variables numércias
 Seleccionamos las variables numéricas **price** y **priceByArea**, ya que hay valores elevados respecto a la mediana. Pueden no tratarse de errores, ya que  viviendas como chalets o casas de campo pueden ascender a precios como los que encontramos de 3.7 hasta 5.9 millones, y por lo tanto el valor por metro cuadrado sea igualmente elevado. Inherente a ambos campos, es el tamaño de la propiedad, y por lo tanto otra característica numérica que acompaña a los valores altos.
