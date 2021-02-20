@@ -95,8 +95,7 @@ Realizamos el recuento para cada propiedad de las viviendas turísticas a menos 
 Existen métodos más precisos para calcular la distancia entre dos puntos, aunque por resultados ótptimos e implementanción sencilla se usa la fórmula Haversine.
 La simplicidad de la fórmula proviene en la asunción de que la Tierra es una esfera perfecta (lo cual no es así). Por ello, se puede incurrir en errores que mediante implementaciones más complejas se reducerían.
 
-(https://latex.codecogs.com/gif.latex?\inline&space;a&space;=&space;sin^2&space;(&space;\frac{\Delta&space;\phi}{2})&space;&plus;&space;cos(\phi_{1})&space;*&space;cos(\phi_{2})&space;*&space;sin^2(\frac{\Delta&space;\lambda}{2}))
-
+<img src="https://latex.codecogs.com/gif.latex?\inline&space;a&space;=&space;sin^2&space;(&space;\frac{\Delta&space;\phi}{2})&space;&plus;&space;cos(\phi_{1})&space;*&space;cos(\phi_{2})&space;*&space;sin^2(\frac{\Delta&space;\lambda}{2})" title="a = sin^2 ( \frac{\Delta \phi}{2}) + cos(\phi_{1}) * cos(\phi_{2}) * sin^2(\frac{\Delta \lambda}{2})" />
 $$a = sin^2 ( \frac{\Delta \phi}{2})  + cos(\phi_{1}) * cos(\phi_{2}) * sin^2(\frac{\Delta \lambda}{2})$$
 {% endraw %}
 
