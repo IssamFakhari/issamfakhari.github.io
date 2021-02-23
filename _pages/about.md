@@ -22,6 +22,7 @@ A lo largo de los últimos años, he aplicado una gran variedad de herramientas 
 <br/>
 
 ## Technical Skills
+
 - Porgramación/Scripting: Python, R, Java, Bash, PL/SQL 
 - Bases de datos: PostgreSQL, MySQL, Microsoft SQL Server
 - IDE/ Control Versiones: Pycharm, Eclipse, Git, GitHub
@@ -31,6 +32,7 @@ A lo largo de los últimos años, he aplicado una gran variedad de herramientas 
 <br/>
 
 ## Data Science Skills
+
 Frameworks y librerías: Pandas, Scikit-Learn, Numpy,
                         Tensorflow, Keras, Tensorflow Extended,
                         Jupyter Notebooks, Rstudio
