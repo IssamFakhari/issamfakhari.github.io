@@ -6,7 +6,7 @@ layout: single
 author_profile: false
 read_time: true
 tags: [Machine Learning, Regression] 
-categories: [statistics]
+categories: [ml]
 excerpt: " "
 comments : true
 toc: true
