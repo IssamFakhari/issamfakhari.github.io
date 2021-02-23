@@ -20,6 +20,7 @@ A lo largo de los últimos años, he aplicado una gran variedad de herramientas 
 
 <br/>
 <br/>
+
 ## Technical Skills
 - Porgramación/Scripting: Python, R, Java, Bash, PL/SQL 
 - Bases de datos: PostgreSQL, MySQL, Microsoft SQL Server
