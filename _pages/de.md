@@ -20,7 +20,7 @@ Serie de artículos relacionados al análisis de datos
 
 
 ## Statistical analysis
-* [A\B Test](https://issamfakhari.github.io/dataanalysis/ABtesting/) : A\B Test. Real-Time Bidding for Display Advertising 
+* [A\B Test](https://issamfakhari.github.io/dataanalysis/ABTesting/) : A\B Test. Real-Time Bidding for Display Advertising 
  
 
 
