@@ -13,14 +13,14 @@ Serie de artículos relacionados al análisis de datos
 
 
 
+## Statistical analysis
+* [A\B Test](https://issamfakhari.github.io/dataanalysis/ABTesting/) : A\B Test. Real-Time Bidding for Display Advertising 
+
+
+
 
 ## Time Series
 
 * [Modelo ARIMA](https://issamfakhari.github.io/dataanalysis/ARIMA/) : Venta licores.Predicción modelo ARIMA 
-
-
-## Statistical analysis
-* [A\B Test](https://issamfakhari.github.io/dataanalysis/ABTesting/) : A\B Test. Real-Time Bidding for Display Advertising 
- 
 
 
