@@ -15,6 +15,8 @@ Serie de artículos sobre Machine Learning
 
 *  [Random Forest](https://issamfakhari.github.io/ml/Idealista/) : Predicción precios propiedades datos portal Idealista + integración OpenData (Parte1-Preparación datos) 
 
+* [XGBoost](https://issamfakhari.github.io/ml/XGBoost/) : XGBoost para predicción en Series Temporales
+
 
 ## Unsupervised Learning
 * 
