@@ -10,7 +10,7 @@ classes: wide
 <div style="text-align: justify">
 Applied data scientist que ha llegado transicionando desde estudios en Economía.
 <br>    
-A la par de la formación oficial en el Grado de Ciencia de Datos, pongo en práctica herramientas como las que encontrarás en el blog.
+A la par de la formación oficial en Ciencia de Datos, pongo en práctica herramientas como las que encontrarás en el blog.
 <br>
 A lo largo de los últimos años, he aplicado una gran variedad de herramientas que han dado pie a aprender otras nuevas.
 
