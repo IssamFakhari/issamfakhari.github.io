@@ -8,7 +8,7 @@ classes: wide
     
 ---
 <div style="text-align: justify">
-Applied data scientist que ha llegado transicionando desde estudios en Economía.
+Applied data scientist.
 <br>    
 A la par de la formación oficial en Ciencia de Datos, pongo en práctica herramientas como las que encontrarás en el blog.
 <br>
